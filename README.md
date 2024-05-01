@@ -47,3 +47,4 @@ Jika ada ketiga deklarasi css secara internal, css eksternal, dan inline css mak
 contoh penulisan CSS iinternal atau eksternal
 
 ![image](https://github.com/AlipMineB/Lab2Web/assets/116167509/bcb13e49-1a40-4436-a5d4-33660482c2c1)
+![alt text](https://github.com/AlipMineB/Test/blob/main/BreadCrumbs.png?raw=true) 
